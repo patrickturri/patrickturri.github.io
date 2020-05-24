@@ -14,7 +14,7 @@ author: Patrick Turricelli
 navbar-links:
   Home: ""
   Blog: ""
-  Projects: ""
+  Projects: "projects"
   About Me: "aboutme"
 
 # --- Logo --- #
