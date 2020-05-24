@@ -48,8 +48,8 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
   instagram: patrick_turri
-  youtube: user/SpongeTown.
-  spotify: SpongeTown
+  youtube: SpongeTown .
+#  spotify: SpongeTown
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
@@ -64,7 +64,7 @@ share-links-active:
   instagram: true
   email: true
   youtube: true
-  spotify: true
+#  spotify: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
@@ -165,7 +165,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Europe/Italy"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
