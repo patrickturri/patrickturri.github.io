@@ -1,21 +1,63 @@
 ---
 layout: page
-title: "Hi, I'm Patrick"
-subtitle: Something to do (WIP) or Tusk
+title: Welcome
+subtitle: ...to a magic world
 css: "/css/index.css"
-meta-title: "Patrick Turricelli - Student"
-meta-description: Let's see if it's working
-cover-img:
-  - "/img/bigImages/bolzano-mountain.jpg" : "Subtirol, Trentino-Alto Adige (2019)"
-  - "/img/bigImages/london-londoneye.jpg" : "London, England (2018)"
-  - "/img/bigImages/praga-gruppo.jpg" : "Nàdraznì, Prague (2019)"
+meta-description: "Student at Edinburgh University with an interest in robotics and AI"
+datacampcourse: true
+bigimg:
+  - "/img/bigImages/praga-gruppo.jpeg" : "Smichov, Praga (2019)"
+  - "/img/bigImages/london-londoneye.jpeg" : "London-Eye, England (2018)"
+  - "/img/bigImages/bolzano-mountain.jpg" : "Ultimo, Trenito-Alto Adige (2019)"
 ---
-
 <div id="aboutme-section">
     <p style="margin-bottom:1cm;">
-        Let's write something here about me...
+        Here is where I tell who I am and what I'm doing in my free time...just not yet because I didnt' have time XD
     </p>
     <p>
-        This little website is my space to tell the world <strong><a href="/aboutme">about me</a></strong>, and show off my <strong><a href="/projects">projects</a></strong>. 
+        For now you can see <strong><a href="/projects">why</a></strong> I'm not turning on my camera during the lessons...
     </p>
 </div>
+
+I develop software that takes fragmented genome sequencing data and attempts to reassemble the original genome from which the short fragments were derived. I analyze genome sequencing data from a variety of species, including spruce trees and human. I have a PhD in bioinformatics, and my undergraduate degree is in computer engineering. I'm a programmer, an avid traveller, a singer, and an enthusiastic cook. I live in Vancouver, Canada.
+
+<div class="posts-list">
+  {% for post in paginator.posts %}
+  <article class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+	  <h2 class="post-title">{{ post.title }}</h2>
+
+	  {% if post.subtitle %}
+	  <h3 class="post-subtitle">
+	    {{ post.subtitle }}
+	  </h3>
+	  {% endif %}
+    </a>
+
+    <p class="post-meta">
+      Posted on {{ post.date | date: "%B %-d, %Y" }}
+    </p>
+
+    <div class="post-entry">
+      {{ post.content | strip_html | xml_escape | truncatewords: 50 }}
+	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
+    </div>
+
+   </article>
+  {% endfor %}
+</div>
+
+{% if paginator.total_pages > 1 %}
+<ul class="pager main-pager">
+  {% if paginator.previous_page %}
+  <li class="previous">
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page %}
+  <li class="next">
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}
