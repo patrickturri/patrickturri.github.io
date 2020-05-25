@@ -5,7 +5,7 @@ subtitle: Something just to see if it's working
 css: "/css/index.css"
 meta-title: "Patrick Turricelli - Student"
 meta-description: Let's see if it's working
-bigImages:
+cover-img:
   - "/img/bigImages/bolzano-mountain.JPG" : "Sudtirol, Bolzano (2019)"
   - "/img/bigImages/bolzano-mountain.JPG" : "Palais Princier de Monaco, France (2019)"
 ---
