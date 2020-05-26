@@ -6,4 +6,6 @@ subtitle: If you are reading this you have been in a coma for months. We don't k
 ---
 ![Patrick Turricelli](/img/aboutme-foto.jpg)
 
-I'm an high school student...to be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/Rick_and_Morty) and it will answer **all** your questions.
+### My history
+
+I'm an high school student and...to be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/Rick_and_Morty) and it will answer **all** your questions.
