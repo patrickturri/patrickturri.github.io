@@ -2,7 +2,7 @@
 layout: post
 title: Hackaton Officine Italia
 subtitle: Officine Italia è il primo evento virtuale di matrice italiana che fornisce una piattaforma ai giovani per progettare il futuro del Paese. 
-image: /img/officine_italia_logo.jpeg
+image: /img/officine_italia_logo.jpg
 
 ---
  ![Podcast Interview](/img/nicolo-intervista.png)
