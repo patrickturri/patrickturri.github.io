@@ -12,7 +12,7 @@ author: Patrick Turricelli
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: ""
+#  Home: ""
   Projects: 
   - SpongeTown: "https://www.youtube.com/channel/UCF_L3HLeKkKvWZTkZo8MVSQ?view_as=subscriber"
   - Appunti: "Appunti"
@@ -58,6 +58,7 @@ social-network-links:
 #  yelp: yourname
 #  telegram: yourname
 #  calendly: yourname
+  strava: Patrick Turricelli
 
 # --- General options --- #
 
@@ -66,6 +67,7 @@ share-links-active:
   instagram: true
   email: true
   youtube: true
+  strava: true
 #  spotify: true
 
 # How to display the link to your website in the footer
