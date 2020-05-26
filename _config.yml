@@ -63,10 +63,10 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  instagram: true
-  email: true
+#  instagram: true
+#  email: true
 #  youtube: true
-  linkedin: true
+#  linkedin: true
 #  spotify: true
 
 # How to display the link to your website in the footer
