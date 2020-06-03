@@ -15,8 +15,8 @@ navbar-links:
 #  Home: ""
   Projects: 
   - Sponge Town: "https://www.youtube.com/channel/UCF_L3HLeKkKvWZTkZo8MVSQ?view_as=subscriber"
-  - Appunti: "Appunti"
   - Officine Italia: "team_5_network.pdf"
+  Appunti: "Appunti"
   About Me: "aboutme"
 
 # --- Logo --- #
