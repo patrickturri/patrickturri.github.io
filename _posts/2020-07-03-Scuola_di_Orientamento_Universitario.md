@@ -2,7 +2,7 @@
 layout: post
 title: Scuola di Orientamento Universitario 2020
 subtitle: A university course of excellence focused on the enhancement of individual potential and the critical approach to teaching and research topics of particular relevance.
-image: /img/scuola_di_orientamento_universitario.png
+image: /img/logo_F.jpg
 
 ---
 From the 30th of June to the 2 of July I participated to the [Scuola di Orientamento Universitario 2020](https://www.santannapisa.it/it/event/scuola-di-orientamento-universitario-2020) event. It was a 3 day program in which university lessons, exercises and group activities took place, as well as moments of comparison and interaction with the students. Organised by the confederation of 3 schools: **Scuola Superiore Sant'Anna**, **Scuola Normale Superiore** and **Scuola Universitaria Superiore IUSS of Pavia**. It's entirely free and only the students that have completed the 12th grade can apply. The number of [student's selected](https://www.santannapisa.it/sites/default/files/elenco_degli_ammessi_e_assegnazione_ai_corsi.pdf) this year was about 300.
