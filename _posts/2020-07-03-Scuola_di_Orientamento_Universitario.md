@@ -10,11 +10,11 @@ It's entirely free and only the students that have completed the 12th grade can 
 The course was held entirely online through the Cisco webex Events hosting platoform because of COVID-19 situation, but there's going to be a school visit in future for the students that have participated, so we can try the residential experience that all the 'Allievi Ordinari' of the school live every day during the University period. 
 
 # The seminars I took part
-30 June
+## 30 June
 <iframe src="https://onedrive.live.com/embed?resid=33B25EE8F6B94796%21113&amp;authkey=%21AFKvs_SC5cmbBME&amp;em=2&amp;wdAr=1.7777777777777777" width="730px" height="400px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
-01 July
+## 01 July
 <iframe src="https://onedrive.live.com/embed?resid=33B25EE8F6B94796%21114&amp;authkey=%21ABjbDorSO_ypoG0&amp;em=2&amp;wdAr=1.7777777777777777" width="730px" height="400px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
-02 July
+## 02 July
 <iframe src="https://onedrive.live.com/embed?cid=33B25EE8F6B94796&amp;resid=33B25EE8F6B94796%21117&amp;authkey=AOovGxjbtmc_lKA&amp;em=2&amp;wdAr=1.3324937027707808" width="730px" height="400px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
 # My experience
