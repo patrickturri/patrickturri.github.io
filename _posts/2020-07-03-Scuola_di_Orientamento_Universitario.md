@@ -2,6 +2,7 @@
 layout: post
 title: Scuola di Orientamento Universitario 2020
 subtitle: A university course of excellence focused on the enhancement of individual potential and the critical approach to teaching and research topics of particular relevance.
+cover-img: /img/colibri.jpg
 image: /img/logo_F.jpg
 
 ---
