@@ -16,7 +16,7 @@ Each day, you had to enter the link of one out of six webinars, and all of them 
 <iframe src="https://onedrive.live.com/embed?resid=33B25EE8F6B94796%21113&amp;authkey=%21AFKvs_SC5cmbBME&amp;em=2&amp;wdAr=1.7777777777777777" width="730px" height="400px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 <h3><div align="center">01 July.</div></h3><iframe src="https://onedrive.live.com/embed?resid=33B25EE8F6B94796%21114&amp;authkey=%21ABjbDorSO_ypoG0&amp;em=2&amp;wdAr=1.7777777777777777" width="730px" height="400px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 <h3><div align="center">02 July.</div></h3><iframe src="https://onedrive.live.com/embed?cid=33B25EE8F6B94796&amp;resid=33B25EE8F6B94796%21117&amp;authkey=AOovGxjbtmc_lKA&amp;em=2&amp;wdAr=1.3324937027707808" width="730px" height="400px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
-
+<br>
 
 # My experience
 For a young student, facing the choice of a university path, requires an awareness that is certainly not easy to acquire and it is even more complex to orient oneself knwowing that there could be an an additional university study path such as that represented by the didactic offer of a School of Advanced Studies in Italy.
