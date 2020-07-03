@@ -15,7 +15,7 @@ The course was held entirely online through the Cisco webex Events hosting plato
 
 # My experience
 For a young student, facing the choice of a university path, requires an awareness that is certainly not easy to acquire and it is even more complex to orient oneself knwowing that there could be an an additional university study path such as that represented by the didactic offer of a School of Advanced Studies in Italy.
-The SOU gave me a broad perspective of the possible paths to take for my future. I discovered new interests and subjects thanks to the  and I had great conversations with the tutors-students about the topics I was more curious, such as the activities and programs that each University offer to the 'Allievi Ordinari' or how much coding they do in a Computer Science major, what tips could they offer to pass the admission test and how hard it is etc... 
+The S.O.U. gave me a broad perspective of the possible paths to take for my future. I discovered **new interests** and I had **great conversations** with the tutors-students about the topics I am more curious, such as the activities and programs that each University offer to the 'Allievi Ordinari' or how much coding they do in a Computer Science major, what tips could they offer to pass the admission test and how hard it is etc... 
 {% include youtubePlayer.html id="ypK39o5Fc-c?start=453" %}
 I think this was definitely the part that I enjoyed the most because the tutor-students made us very comfortable trying to answer and clarify all the doubts and questions that we had.
 
