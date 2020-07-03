@@ -21,6 +21,12 @@ Each day, you had to enter the link of one out of six webinars, and all of them 
 # My experience
 For a young student, facing the choice of a university path, requires an awareness that is certainly not easy to acquire and it is even more complex to orient oneself knwowing that there could be an an additional university study path such as that represented by the didactic offer of a School of Advanced Studies in Italy.
 The S.O.U. gave me a broad perspective of the possible paths to take for my future. I discovered **new interests** and I had **great conversations** with the tutors-students about the topics I am more curious, such as the activities and programs that each University offer to the 'Allievi Ordinari' or how much coding they do in a Computer Science major, what tips could they offer to pass the admission test and how hard it is etc... 
-<iframe width="730px" height="370px" src="https://www.youtube.com/embed/ypK39o5Fc-c?start=455" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="videoWrapper">
+  <!-- Copy & Pasted from YouTube -->
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ypK39o5Fc-c?start=453" frameborder="0" allow="accelerometer; autoplay; encrypted-media;           gyroscope; picture-in-picture" allowfullscreen>
+  </iframe>
+</div>
+
+<!-- <iframe width="730px" height="370px" src="https://www.youtube.com/embed/ypK39o5Fc-c?start=455" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
 I think this was definitely the part that I enjoyed the most because the tutor-students made us very comfortable trying to answer and clarify all the doubts and questions that we had.
 
