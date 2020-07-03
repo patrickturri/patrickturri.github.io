@@ -11,11 +11,11 @@ The course was held entirely online through the Cisco webex Events hosting plato
 
 # The seminars I took part
 30 June
-<iframe src="https://onedrive.live.com/embed?resid=33B25EE8F6B94796%21113&amp;authkey=%21AFKvs_SC5cmbBME&amp;em=2&amp;wdAr=1.7777777777777777" width="1186px" height="691px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://onedrive.live.com/embed?resid=33B25EE8F6B94796%21113&amp;authkey=%21AFKvs_SC5cmbBME&amp;em=2&amp;wdAr=1.7777777777777777" width="730px" height="400px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 01 July
-<iframe src="https://onedrive.live.com/embed?resid=33B25EE8F6B94796%21114&amp;authkey=%21ABjbDorSO_ypoG0&amp;em=2&amp;wdAr=1.7777777777777777" width="1186px" height="691px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://onedrive.live.com/embed?resid=33B25EE8F6B94796%21114&amp;authkey=%21ABjbDorSO_ypoG0&amp;em=2&amp;wdAr=1.7777777777777777" width="730px" height="400px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 02 July
-<iframe src="https://onedrive.live.com/embed?cid=33B25EE8F6B94796&amp;resid=33B25EE8F6B94796%21117&amp;authkey=AOovGxjbtmc_lKA&amp;em=2&amp;wdAr=1.3324937027707808" width="1025px" height="793px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://onedrive.live.com/embed?cid=33B25EE8F6B94796&amp;resid=33B25EE8F6B94796%21117&amp;authkey=AOovGxjbtmc_lKA&amp;em=2&amp;wdAr=1.3324937027707808" width="730px" height="400px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
 # My experience
 For a young student, facing the choice of a university path, requires an awareness that is certainly not easy to acquire and it is even more complex to orient oneself knwowing that there could be an an additional university study path such as that represented by the didactic offer of a School of Advanced Studies in Italy.
