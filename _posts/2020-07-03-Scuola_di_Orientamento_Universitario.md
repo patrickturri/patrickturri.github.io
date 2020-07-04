@@ -11,9 +11,9 @@ It's entirely free and only the students that have completed the 12th grade can 
 The course was held entirely online through the Cisco webex Events hosting platoform because of COVID-19 situation, but there's going to be a school visit in future for the students that have participated, so we can try the residential experience that all the 'Allievi Ordinari' of the school live every day during the University period. 
 
 # The seminars I took part
-Each day, you had to enter the link of one out of six webinars, and all of them were about very different topics, from pshicoly to computer sciensce or from politic science to neuroscience and so on. These are the ones I attend:
+Each day, you had to enter the room of one out of six webinars, and all of them were about very different topics, from philosophy to computer science or from politic science to neuroscience and so on. These are the ones I attend:
 <h3><div align="center">30 June.</div></h3>
-<br>
+**The talk was about consciousness**, a topic I think is becoming more and more relevant these days with the improving of A.I. technologies. We discussed a philosophical thought experiment: ['Mary's Room'](https://www.youtube.com/watch?v=mGYmiQkah4o). In a nutshell, it attempts to refute the theory that all knowledge is physical knowledge. The conversations was really intriguing and **made me ponder upon some profound questions I have never thought about**, such as: could it be that there are fundamental limits to what we can know about something we can't experience? And would this mean there are certain aspects of the universe that lie permanently beyond our comprehension? 
 <div class="videoWrapper">
    <iframe src="https://onedrive.live.com/embed?resid=33B25EE8F6B94796%21113&amp;authkey=%21AFKvs_SC5cmbBME&amp;em=2&amp;wdAr=1.7777777777777777" width="560px"          height="315px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a                    target="_blank" href="https://office.com/webapps">Office</a>.
   </iframe>
