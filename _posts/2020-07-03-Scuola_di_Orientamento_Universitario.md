@@ -28,6 +28,7 @@ Each day, you had to enter the room of one out of six webinars, and all of them 
 </div>
 <br>
 <h3><div align="center">Day 3.</div></h3>
+Professor Tommaso Cucinotta described us the main stages during the history of computer science. We received an insight on the fundamental inventions that allowed computer science to take off, with the aim also of making it seem less magical. In fact, even when we receive a new phone, that is potentially able to perform numerous and complex functions, it is normal to think that something extraordinary may be hidden behind it. It was nice to retrace what brought us to computer science like it is nowadays. 
 <div class="videoWrapper">
    <iframe src="https://onedrive.live.com/embed?                                                 cid=33B25EE8F6B94796&amp;resid=33B25EE8F6B94796%21117&amp;authkey=AOovGxjbtmc_lKA&amp;em=2&amp;wdAr=1.3324937027707808" width="560px" height="315px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank href="https://office.com/webapps">Office</a>.
   </iframe>
