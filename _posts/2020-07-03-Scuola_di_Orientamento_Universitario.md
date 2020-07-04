@@ -13,20 +13,21 @@ The course was held entirely online through the Cisco webex Events hosting plato
    
 # The seminars I took part
 Each day, you had to enter the room of one out of six webinars, and all of them were about very different topics, from philosophy to computer science or from politic science to neuroscience and so on. These are the ones I attend:
-<h3><div align="center">Day 1.</div></h3>
+
+<h3><div align="center" style="margin-top: 10px">Day 1.</div></h3>
 **The talk was about consciousness**, a topic I think is becoming more and more relevant these days with the improving of A.I. technologies. We discussed a philosophical thought experiment: <a href="https://www.youtube.com/watch?v=mGYmiQkah4o" target="_blank">'Mary's Room'</a>. In a nutshell, it attempts to refute the theory that all knowledge is physical knowledge. The conversations was really intriguing and **made me ponder upon some profound questions I have never thought about**, such as: could it be that there are fundamental limits to what we can know about something we can't experience? And would this mean there are certain aspects of the universe that lie permanently beyond our comprehension? 
 <div class="videoWrapper">
    <iframe src="https://onedrive.live.com/embed?resid=33B25EE8F6B94796%21113&amp;authkey=%21AFKvs_SC5cmbBME&amp;em=2&amp;wdAr=1.7777777777777777" width="560px"          height="315px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a                    target="_blank" href="https://office.com/webapps">Office</a>.
   </iframe>
 </div>
-<h3><div align="center">Day 2.</div></h3>
 <br>
+<h3><div align="center">Day 2.</div></h3>
 <div class="videoWrapper">
    <iframe src="https://onedrive.live.com/embed?resid=33B25EE8F6B94796%21114&amp;authkey=%21ABjbDorSO_ypoG0&amp;em=2&amp;wdAr=1.7777777777777777" width="560px"          height="315px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a                    target="_blank" href="https://office.com/webapps">Office</a>.
   </iframe>
 </div>
-<h3><div align="center">Day 3.</div></h3>
 <br>
+<h3><div align="center">Day 3.</div></h3>
 <div class="videoWrapper">
    <iframe src="https://onedrive.live.com/embed?                                                 cid=33B25EE8F6B94796&amp;resid=33B25EE8F6B94796%21117&amp;authkey=AOovGxjbtmc_lKA&amp;em=2&amp;wdAr=1.3324937027707808" width="560px" height="315px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank href="https://office.com/webapps">Office</a>.
   </iframe>
