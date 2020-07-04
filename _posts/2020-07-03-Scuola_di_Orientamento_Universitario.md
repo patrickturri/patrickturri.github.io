@@ -21,7 +21,8 @@ Each day, you had to enter the room of one out of six webinars, and all of them 
   </iframe>
 </div>
 <br>
-<h3><div align="center" style="margin-top: 10px">Day 2.</div></h3>
+<h3><div align="center">Day 2.</div></h3>
+**We have addressed the issue of immigration and security** which are constantly at the center of the public debate. It is a theme that is often debased in the media debate through the use of commonplaces or easy connections. The speaker tried to dissect and show the complexity behind this debate. On the one hand, clarifying the conceptual ambiguity of very complex words such as migration and security. On the other hand, using data: how data can help us dismantle clichés, dismantle connections that seem obvious but in reality they dont' and also how data can be misleading and how it can be read in an oriented and tendentious way.
 <div class="videoWrapper">
    <iframe src="https://onedrive.live.com/embed?resid=33B25EE8F6B94796%21114&amp;authkey=%21ABjbDorSO_ypoG0&amp;em=2&amp;wdAr=1.7777777777777777" width="560px"          height="315px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a                    target="_blank" href="https://office.com/webapps">Office</a>.
   </iframe>
