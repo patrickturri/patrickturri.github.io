@@ -7,9 +7,8 @@ image: /img/logo_F.jpg
 
 ---
 From the 30th of June to the 2 of July I participated to the 
-<a href="https://www.santannapisa.it/it/event/scuola-di-orientamento-universitario-2020" target="_blank">Scuola di Orientamento Universitario 2020</a> event. It was a 3 day program in which university lessons, exercises and group activities took place, as well as moments of comparison and interaction with the students. Organised by the confederation of 3 schools: **Scuola Superiore Sant'Anna**, **Scuola Normale Superiore** and **Scuola Universitaria Superiore IUSS of Pavia**. 
-It's entirely free and only the students that have completed the 12th grade can apply. The number of 
-<a href="https://www.santannapisa.it/sites/default/files/elenco_degli_ammessi_e_assegnazione_ai_corsi.pdf" target=_"blank">student's selected</a> this year was about 300.
+[Scuola di Orientamento Universitario 2020](https://www.santannapisa.it/it/event/scuola-di-orientamento-universitario-2020){:target="_blank"} event. It was a 3 day program in which university lessons, exercises and group activities took place, as well as moments of comparison and interaction with the students. Organised by the confederation of 3 schools: **Scuola Superiore Sant'Anna**, **Scuola Normale Superiore** and **Scuola Universitaria Superiore IUSS of Pavia**. 
+It's entirely free and only the students that have completed the 12th grade can apply. The number of [student's selected](https://www.santannapisa.it/sites/default/files/elenco_degli_ammessi_e_assegnazione_ai_corsi.pdf){:target="_blank"} this year was about 300.
 The course was held entirely online through the Cisco webex Events hosting platoform because of COVID-19 situation, but there's going to be a school visit in future for the students that have participated, so we can try the residential experience that all the 'Allievi Ordinari' of the school live every day during the University period. 
    
 # The seminars I took part
