@@ -38,7 +38,7 @@ Professor Tommaso Cucinotta described us the main stages of the history of compu
 <br>
 # My experience
 For a young student, facing the choice of a university path, requires an awareness that is certainly not easy to acquire and it is even more complex to orient oneself knwowing that there could be an an additional university study path such as that represented by the didactic offer of a School of Advanced Studies in Italy.
-The S.O.U. gave me a broad perspective of the possible paths to take for my future. **I discovered new interests** and I had great conversations with the tutors-students** about the topics I am more curious, such as the activities and programs that each University offer to the 'Allievi Ordinari' or how much coding they do in a Computer Science major, what tips could they offer to pass the admission test and how hard it is etc... 
+The S.O.U. gave me a broad perspective of the possible paths to take for my future. I **discovered new interests** and I **had great conversations with the tutors-students** about the topics I am more curious, such as the activities and programs that each University offer to the 'Allievi Ordinari' or how much coding they do in a Computer Science major, what tips could they offer to pass the admission test and how hard it is etc... 
 <div class="videoWrapper">
   <!-- Copy & Pasted from YouTube -->
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ypK39o5Fc-c?start=453" frameborder="0" allow="accelerometer; autoplay; encrypted-media;           gyroscope; picture-in-picture" allowfullscreen>
