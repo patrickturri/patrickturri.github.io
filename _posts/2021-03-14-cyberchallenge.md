@@ -3,7 +3,7 @@ layout: post
 title: CyberChallenge
 subtitle: Cybersecurity training programe for the next generation of cyberdefenders 
 cover-img: /img/ethicalHacking.jpeg
-image: /img/logo_cyberchallenge.png
+image: /img/logo_cyberchallenge.jpeg
 
 ---
 This year more than 2500 people aged from 16 to 23 years applied to the programe and the acceptance rate was 13.5%. After taking the logic and programming test I passed the selection process and have been selected to participate in the 2021 CyberChallenge.
