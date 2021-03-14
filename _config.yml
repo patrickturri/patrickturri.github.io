@@ -14,7 +14,7 @@ url: "http://patrickturricelli.com/"
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "/"
+  - Home: "/"
 #  Projects: 
   - Sponge Town: "https://www.youtube.com/channel/UCF_L3HLeKkKvWZTkZo8MVSQ?view_as=subscriber"
   - Officine Italia: "team_5_network.pdf"
