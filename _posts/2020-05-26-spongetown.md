@@ -7,7 +7,7 @@ tags:
 
 ---
 
-Good Morning Italy! Welcome to SpongeTown. Something about lifestyle, tech and other fancy stuff... we don't know either, we're just two random high school students.
+Good Morning Italy! Welcome to SpongeTown. Something about lifestyle, tech and other fancy stuff...
 <div class="videoWrapper">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/Aby0ear8MCs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
